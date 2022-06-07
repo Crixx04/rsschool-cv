@@ -1,1 +1,1 @@
-https://Crixx04.github.io/rsschool-cv/cv
+https://Crixx04.github.io/rsschool-cv/
