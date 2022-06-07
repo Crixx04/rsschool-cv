@@ -2,10 +2,13 @@
 --------------------
 
 ## Contacts
-  **Location:** *Tyumen, Russia*
-  **Phone:** *+7 909 18 111 27*
-  **Email:** *ksp90rg@gmail.com*
-  **Github:** *Crixx04*
+  - **Location:** *Tyumen, Russia*
+  - **Phone:** *+7 909 18 111 27*
+  - **Email:** *ksp90rg@gmail.com*
+  - **Github:** *Crixx04*
+
+  ## About me
+*Some text about me :)*
 
 
 
