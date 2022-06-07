@@ -14,8 +14,8 @@
 *SEO junior*
 
 ## Education and courses:
-  - *1. Netology - SEO specialist: from "0" to middle*
-  - *2. JS / FRONT-END. STAGE 0* 
+  *1. Netology - SEO specialist: from "0" to middle*
+  *2. JS / FRONT-END. STAGE 0*
 
 ## Language
 English level - *A1*
