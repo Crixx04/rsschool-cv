@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Crixx04.github.io/rsschool-cv/
